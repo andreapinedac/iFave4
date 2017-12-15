@@ -1,4 +1,3 @@
-[![BCH compliance](https://bettercodehub.com/edge/badge/andreapinedac/iFave?branch=master)](https://bettercodehub.com/)
 
 # iFave - Andrea Pineda 10590501
 
