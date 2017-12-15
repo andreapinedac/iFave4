@@ -1,0 +1,6 @@
+framework module Pods_iFaveUITests {
+  umbrella header "Pods-iFaveUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

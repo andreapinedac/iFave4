@@ -1,0 +1,6 @@
+framework module Pods_iFave {
+  umbrella header "Pods-iFave-umbrella.h"
+
+  export *
+  module * { export * }
+}
